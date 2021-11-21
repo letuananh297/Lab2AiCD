@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Второй курс (1)\АиСД\Lab2\algorithm.h(104,73): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Второй курс (1)\АиСД\Lab2\algorithm.h(138,74): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Lab2.vcxproj -> D:\Второй курс (1)\АиСД\Lab2\Debug\Lab2.exe
